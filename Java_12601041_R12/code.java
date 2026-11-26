@@ -1,4 +1,4 @@
-class alan{
+class even{
     public static void main()
     {
         int i;
